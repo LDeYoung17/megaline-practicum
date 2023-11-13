@@ -40,6 +40,9 @@ Label the sections more clearly using HTML headers to help users navigate the pr
 
 ![megaline_sample](https://github.com/LDeYoung17/megaline-practicum/assets/70500225/eeda0358-f93e-4a5c-a8e0-e9d80c929e80)
 
+<h2>Demonstration Video</h2>
+
+https://drive.google.com/file/d/1kPfNrZFmsSB9fZrdrdCpZjKGIsXs0KWm/view?usp=sharing
 
 <h2>Portfolio Link</h2>
 
